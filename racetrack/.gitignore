@@ -1,0 +1,7 @@
+.classpath
+.project
+.gitignore.swp
+web-app/WEB-INF/tld/
+web-app/WEB-INF/classes/
+.settings/
+target/
